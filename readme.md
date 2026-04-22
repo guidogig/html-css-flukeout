@@ -1,7 +1,7 @@
 # WDPT14 - Esercizio
 
 ## Titolo:
-htmlcss-discord-mobile
+htmlcss-css-flukeout
 
 ## Assignment:
 Rifate tutti i livelli del gioco visto assieme.
